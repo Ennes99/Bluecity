@@ -1,0 +1,18 @@
+odm-> https://mongoosejs.com/
+orm-> https://sequelize.org/
+
+Entre front-Back
+Ya no soap;
+restfull 
+https://graphql.org/
+Websocked en vez de session;
+Socked Como siempre.
+
+Integración Continua.
+kubernetes vs docker vs jenkins
+Jenkins: un servidor de integración continua de código abierto 
+Kubernetes es un sistema de orquestación de código abierto para 
+Docker. Maneja la programación en nodos en un clúster de cómputo y
+administra activamente las cargas bajo para garantizar que su estado coincida con las intenciones 
+declaradas por los usuarios.
+
